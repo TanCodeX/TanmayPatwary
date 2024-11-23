@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Chrome Extension<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning JavaScript and advance Python<br>💬 Ask me about APIs, C, Python<br>⚡ Fun fact I love Coding
+🔭 I’m currently working on a Chrome Extension<br>🌱 I’m currently learning JavaScript and advance Python<br>💬 Ask me about APIs, C, Python<br>⚡ Fun fact I love Coding
 
 
 ## 🌐 Socials:
